@@ -10,7 +10,7 @@ While I've found a few different automated light probe solutions for Unity, I co
 > Light Probes provide a way to capture and use information about light that is passing through the empty space in your scene.
 >Light probes store “baked” information about lighting in your scene. The difference is that while lightmaps store lighting information about light hitting the surfaces in your scene, light probes store information about light passing through empty space in your scene.
 
-If you're familiar with Unreal Engine, this is roughly what the Lightmass Importance Volume does for you, albeit in a slightly less optimized fashion.
+If you're more familiar with Unreal Engine, this package is roughly what the Lightmass Importance Volume does for you, albeit in a slightly less optimized fashion.
 
 ![packman](images/packman.png)
 
