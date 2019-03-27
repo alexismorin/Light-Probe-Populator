@@ -1,0 +1,12 @@
+{
+    "name": "com.alexismorin.lightprobepopulator",
+    "displayName": "Light Probe Populator",
+    "version": "1.0.0",
+    "unity": "2018.2",
+    "description": "Filter through the scene and automatically generate Light Probes at the touch of a button.",
+    "keywords": [
+        "light",
+        "unity"
+    ],
+    "category": "Open-Source"
+}
