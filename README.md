@@ -15,7 +15,7 @@ If you're familiar with Unreal Engine, this is roughly what the Lightmass Import
 ![packman](images/packman.png)
 
 ##### Install process
-This is a plugin that makes use of Unity's new *Package Manager* feature. Just drop the *com.alexismorin.lightprobepopulator@1.0.0*  folder into your *packages* folder (found at the same level as your Assets folder) and it should work out-of-the-box. If you're using an older version of Unity, navigate inside the *com.alexismorin.lightprobepopulator@1.0.0* and then just drag the *Editor* folder anywhere in your project hierarchy.
+This is a plugin that makes use of Unity's new *Package Manager* feature. Just drop the *com.alexismorin.lightprobepopulator* folder into your *packages* folder (found at the same level as your Assets folder) and it should work out-of-the-box. If you're using an older version of Unity, navigate inside the *com.alexismorin.lightprobepopulator* folder and then just drag the *Editor* folder you find there anywhere in your project hierarchy.
 
 ![footer](images/options.png)
 
