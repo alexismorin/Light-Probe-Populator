@@ -28,4 +28,4 @@ Just select one of the four options in the *Tools* menu item.
 
 ![footer](images/footer.png)
 
-Created in the timespan of a coffee break at [Imaginary Spaces.](https://imaginary-spaces.com/)
+Created at [Imaginary Spaces.](https://imaginary-spaces.com/) in the timespan of a coffee break.
