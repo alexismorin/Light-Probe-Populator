@@ -26,7 +26,6 @@ Just select one of the four options in the *Tools* menu item.
  - *High Resolution* is good if you're doing realtime rendering.
  - *Very High Resolution* is kind of overkill - use if you're trying to compete with the Unity demo team.
 
+![footer](images/footer.png)
 
 Created in the timespan of a coffee break at [Imaginary Spaces.](https://imaginary-spaces.com/)
-
-![footer](images/footer.png)
